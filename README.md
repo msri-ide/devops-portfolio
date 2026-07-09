@@ -64,13 +64,3 @@ README.md
 - ✅ AWS LoadBalancer Service
 
 ---
-
-## 📅 Upcoming Enhancements
-
-- Jenkins CI/CD
-- Terraform Infrastructure
-- AWS Load Balancer Controller
-- Ingress
-- Helm
-- Prometheus & Grafana
-- GitHub Actions
