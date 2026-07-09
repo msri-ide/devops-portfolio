@@ -52,7 +52,7 @@ README.md
 
 ## 📸 Deployment Screenshot
 
-(Add the screenshot here after pushing to GitHub.)
+![Amazon EKS Deployment](screenshots/devops-portfolio.png)
 
 ---
 
